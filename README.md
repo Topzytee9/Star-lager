@@ -1,0 +1,2 @@
+# Star-lager
+Star testnet
